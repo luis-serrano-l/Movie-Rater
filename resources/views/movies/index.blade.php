@@ -1,7 +1,7 @@
 @extends('layouts')
 
 @section('content')
-    <h1>Movies</h1>
+    <h1 class="title">Movies</h1>
     <table>
         <thead>
             <tr>
